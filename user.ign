@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.3.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBQabJL2x2eO/JMVQtVY7zYw4xmqEI/nWjDgTQ/ojWBB lincolnb@uct2-int.mwt2.org"
+        ]
+      }
+    ]
+  }
+}
